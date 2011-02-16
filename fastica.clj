@@ -1,5 +1,5 @@
 (ns stats.fastica
-  "An implementation of the Fast ICA algorithm (by Hyvarinen et. al.) for independent componenet analysis."
+  "An implementation of the Fast ICA algorithm (by Hyvarinen et. al.) for independent component analysis."
   (:use
      incanter.core
      incanter.stats

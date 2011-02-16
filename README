@@ -1,1 +1,11 @@
-This README file just wasted 5 seconds of your life. Sorry.
+FastICA is an algorithm for Independent Component Analysis (ICA), first described and
+implemenented by Hyvarinen et. al. in the paper "Fast and Robust Fixed-Point
+Algorithms for Independent Component Analysis"
+
+The goal of ICA is to find maximally independent components in a mixed dataset.
+One example application is separating mixed-sound signals into their individual
+signals.
+
+The algorithm was implemented as part of my research/reading with Dejing Dou at
+the University of Oregon in Spring 2010. It requires the Incanter framework to
+work properly.
